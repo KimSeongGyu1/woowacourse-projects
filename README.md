@@ -132,15 +132,11 @@
 
 ### 진행 미션
 
-- comming soon...
+|     Project      |                          Repository                          |                         코드 리뷰                         |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  WAS 구현  | [jwp-was](https://github.com/KimSeongGyu1/jwp-was) | 진행 중 |
+| 점진적 리펙토링 |  아직 진행 X  | 아직 진행 X  |
 
-<br/>
-
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
-
-### 발표 주제 : 10/7 예정
-
-- [스프링]()
 
 <br/>
 
@@ -148,26 +144,23 @@
 
 ### 진행 미션
 
-| Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
+| Level |                 Topic                  |                          Repository                          |                         리뷰                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1]() | [Pull Request]() |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2]() | [Pull Request]() |
-|   3   |    내가 꿈꾸는 프로그래머로서의 삶     |                       comming soon...                        |                       comming soon...                        |
-|   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |                       comming soon...                        |
+|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/KimSeongGyu1/woowa-writing-2/blob/yuan/%EB%A0%88%EB%B2%A81.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/13) |
+|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/KimSeongGyu1/woowa-writing-2/blob/yuan/%EB%A0%88%EB%B2%A82.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/87) |
+|   3   |    팀 프로젝트가 나에게 남긴 것     | [woowa-writing-2/level3](https://github.com/KimSeongGyu1/woowa-writing-2/blob/yuan/%EB%A0%88%EB%B2%A83.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/118) |
+|   4   |       3기 크루들에게 보내는 편지?       |                       comming soon...                        |                       comming soon...                        |
 
 <br/>
 
+## 기타 활동
 
-## 🗃 Javable : 우아한테크코스 코드 리뷰 모음 블로그
+### 테코톡: 크루들과 지식을 공유하는 방법
 
-### 서비스
+- 발표 주제: 스프링
+- 10/7 예정
 
-- [Javable](https://woowacourse.github.io/javable/)
+### 🗃 [Javable](https://woowacourse.github.io/javable/) : 우아한테크코스 블로그
 
-### Github Repository
-
-- [javable](https://github.com/woowacourse/javable)
-
-### 활동 내용
-
-- [포스팅 - 나의 글]()
+- [생성자 인자가 많을 땐? Builder!](https://woowacourse.github.io/javable/2020-08-17/builder_pattern)
+- [토큰을 어디에 저장할까?](https://woowacourse.github.io/javable/2020-08-31/where_to_store_token)
