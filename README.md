@@ -60,7 +60,7 @@
 |   체스 / step1   | [java-chess/step1](https://github.com/KimSeongGyu1/java-chess/tree/kimseonggyu1) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/67) |
 |   체스 / step2   | [java-chess/step2](https://github.com/KimSeongGyu1/java-chess) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/110) |
 |   90년생 HTML    |            [html](https://github.com/KimSeongGyu1/html)            | 코드 리뷰 X: 단순 html 학습 미션  |
-|   오프라인 코딩 테스트 다시   |            [java-chiken-after-level-1](https://github.com/KimSeongGyu1/java-chicken-2020)            | 코드 리뷰 X: 실력 향상 점검 미션 |
+|   오프라인 코딩 테스트 다시   |            [java-chiken-after-level-1](https://github.com/KimSeongGyu1/java-chicken-2020)            | 코드 리뷰 X: 실력 향상 점검 테스트 |
 
 <br/>
 
@@ -78,17 +78,15 @@
 
 ### 진행 미션
 
-|       Project        |                          Repository                          |                         Pull Request                         |
-| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1]() | [Pull Request]() |
-|     체스 / step2     | [jwp-chess/step2]() | [Pull Request]() |
-|     체스 / step3     | [jwp-chess/step3]() | [Pull Request]() |
-|     체스 / step4     | [jwp-chess/step4]() | [Pull Request]() |
-|   지하철 정보 관리   | [atdd-subway-admin]() | [Pull Request]() |
-|   지하철 경로 조회   | [atdd-subway-path]() | [Pull Request]() |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite]() | [Pull Request]() |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend]() | [Pull Request]() |
-|      Todo List       |        [todolist]()        |                       comming soon...                        |
+|       Project        |                          Repository                          |                         코드 리뷰                         |                         비고                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     체스 / step 1+2     | [jwp-chess/step4](https://github.com/KimSeongGyu1/jwp-chess) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/44) | 당시 깃과 깃허브에 대한 이해 부족으로 PR을 하나로 이어 붙임 |
+|     체스 / step3     | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/149) | 브랜치도 계속 한개를 이어서 사용 |
+|     체스 / step4     | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/176) | 리뷰어가 관여하지 않고 크루들끼리 진행한 미션이라 마지막까지 잘못된 걸 모르고 진행 |
+|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KimSeongGyu1/atdd-subway-admin-frontend) | 코드 리뷰 X: 단순 프로트 학습 | |
+|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KimSeongGyu1/atdd-subway-admin) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/4) | |
+|   지하철 경로 조회   | [atdd-subway-path](https://github.com/KimSeongGyu1/atdd-subway-path) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/24) | |
+| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/KimSeongGyu1/atdd-subway-favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/54) | |
 
 <br/>
 
