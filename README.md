@@ -25,12 +25,12 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |
-| :--------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KimSeongGyu1/java-baseball-precourse) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KimSeongGyu1/java-racingcar-precourse) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/KimSeongGyu1/java-blackjack-precourse) |
-|      치킨 집      | [java-chicken-2019](https://github.com/KimSeongGyu1/java-chicken-2019) |
+|     Project      |                          Repository                          |                         Pull Request                         |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KimSeongGyu1/java-baseball-precourse) |  |
+| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KimSeongGyu1/java-racingcar-precourse) | |
+|      블랙잭      | [java-blackjack-precourse](https://github.com/KimSeongGyu1/java-blackjack-precourse) | [당시 고민의 흔적](https://github.com/woowacourse/java-blackjack-precourse/pull/12) |
+|      치킨 집      | [java-chicken-2019](https://github.com/KimSeongGyu1/java-chicken-2019) |  |
 
 <br/>
 
@@ -101,9 +101,18 @@
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 
-### 진행 미션
+### 진행 프로젝트
 
-- comming soon...
+|       Project        |                          Repository                          |
+| :------------------: | :----------------------------------------------------------: |
+| [devbie](https://devbie.kr/) | [깃허브](https://github.com/woowacourse-teams/2020-devbie) |
+
+### 담당 작업
+
+- 기반 작업(도커, CI/CD, nginx, https, mysql)
+- 채팅
+- 추천, 댓글 시스템, 회원가입 등에서 협업
+
 
 <br/>
 
