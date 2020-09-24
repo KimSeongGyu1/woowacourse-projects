@@ -51,15 +51,15 @@
 
 |     Project      |                          Repository                          |                         코드 리뷰                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/KimSeongGyu1/java-calculator) | [코드 리뷰](https://github.com/woowacourse/java-calculator/pull/54) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/KimSeongGyu1/java-racingcar)  | [코드 리뷰](https://github.com/woowacourse/java-racingcar/pull/77) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/KimSeongGyu1/java-lotto/tree/YuanElly) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/128) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/KimSeongGyu1/java-lotto) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/221) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/KimSeongGyu1/java-blackjack/tree/firststep) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/39) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/KimSeongGyu1/java-blackjack) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/90) |
-|   체스 / step1   | [java-chess/step1](https://github.com/KimSeongGyu1/java-chess/tree/kimseonggyu1) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/67) |
-|   체스 / step2   | [java-chess/step2](https://github.com/KimSeongGyu1/java-chess) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/110) |
-|   90년생 HTML    |            [html](https://github.com/KimSeongGyu1/html)            | 코드 리뷰 X: 단순 html 학습 미션  |
+|  온 보딩 (유닛테스트, 학습테스트)  | [java-calculator](https://github.com/KimSeongGyu1/java-calculator) | [코드 리뷰](https://github.com/woowacourse/java-calculator/pull/54) |
+| 자동차 경주 (TDD) |  [java-racingcar](https://github.com/KimSeongGyu1/java-racingcar)  | [코드 리뷰](https://github.com/woowacourse/java-racingcar/pull/77) |
+|   로또 / step1 (enum)   | [java-lotto/step1](https://github.com/KimSeongGyu1/java-lotto/tree/YuanElly) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/128) |
+|   로또 / step2 (enum)   | [java-lotto/step2](https://github.com/KimSeongGyu1/java-lotto) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/221) |
+|  블랙잭 / step1 (상속, 인터페이스) | [java-blackjack/step1](https://github.com/KimSeongGyu1/java-blackjack/tree/firststep) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/39) |
+|  블랙잭 / step2 (상속, 인터페이스) | [java-blackjack/step2](https://github.com/KimSeongGyu1/java-blackjack) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/90) |
+|   체스 / step1 (객체지향 설계) | [java-chess/step1](https://github.com/KimSeongGyu1/java-chess/tree/kimseonggyu1) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/67) |
+|   체스 / step2 (객체지향 설계) | [java-chess/step2](https://github.com/KimSeongGyu1/java-chess) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/110) |
+|   90년생 HTML (html, css, js)    |            [html](https://github.com/KimSeongGyu1/html)            | 코드 리뷰 X: 단순 html 학습 미션  |
 |   오프라인 코딩 테스트 다시   |            [java-chiken-after-level-1](https://github.com/KimSeongGyu1/java-chicken-2020)            | 코드 리뷰 X: 실력 향상 점검 테스트 |
 
 <br/>
@@ -80,13 +80,13 @@
 
 |       Project        |                          Repository                          |                         코드 리뷰                         |                         비고                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step 1+2     | [jwp-chess/step4](https://github.com/KimSeongGyu1/jwp-chess) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/44) | 당시 깃과 깃허브에 대한 이해 부족으로 PR을 하나로 이어 붙임 |
-|     체스 / step3     | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/149) | 브랜치도 계속 한개를 이어서 사용 |
-|     체스 / step4     | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/176) | 리뷰어가 관여하지 않고 크루들끼리 진행한 미션이라 마지막까지 잘못된 걸 모르고 진행 |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/KimSeongGyu1/atdd-subway-admin-frontend) | 코드 리뷰 X: 단순 프로트 학습 | |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/KimSeongGyu1/atdd-subway-admin) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/4) | |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/KimSeongGyu1/atdd-subway-path) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/24) | |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/KimSeongGyu1/atdd-subway-favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/54) | |
+|     체스 / step 1+2 (스프링 실습)     | [jwp-chess/step4](https://github.com/KimSeongGyu1/jwp-chess) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/44) | 당시 깃과 깃허브에 대한 이해 부족으로 PR을 하나로 이어 붙임 |
+|     체스 / step3 (스프링 실습)    | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/149) | 브랜치도 계속 한개를 이어서 사용 |
+|     체스 / step4 (스프링 실습)    | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/176) | 리뷰어가 관여하지 않고 크루들끼리 진행한 미션이라 마지막까지 잘못된 걸 모르고 진행 |
+|  지하철 Admin CRUD (프론트 학습)  | [atdd-subway-admin-frontend](https://github.com/KimSeongGyu1/atdd-subway-admin-frontend) | 코드 리뷰 X: 단순 프로트 학습 | |
+|   지하철 정보 관리 (인수 테스트)  | [atdd-subway-admin](https://github.com/KimSeongGyu1/atdd-subway-admin) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/4) | |
+|   지하철 경로 조회 (TDD, ETag)   | [atdd-subway-path](https://github.com/KimSeongGyu1/atdd-subway-path) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/24) | |
+| 지하철 경로 즐겨찾기 (API 테스트, 문서자동화) | [atdd-subway-favorite](https://github.com/KimSeongGyu1/atdd-subway-favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/54) | |
 
 <br/>
 
