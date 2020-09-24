@@ -10,33 +10,27 @@
 
 <br/>
 
-## ⏳ Level 0 : 프리코스
+## ⏳ Level 0 : 프리코스 + 오프라인 테스트
 
 ### 기간
 
-- 2019.11.27 ~ 2019.12.17
+- 프리코스: 2019.11.27 ~ 2019.12.17
+- 오프라인 테스트: 2019.12.24
+
+### 학습 목표
+
+- [목적의식 있는 연습을 통한 효과적인 학습](https://brunch.co.kr/@javajigi/8)
+- 선발 과정에서 지원자들의 성장을 유도
+
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse]() | [Pull Request]() |
-| 자동차 경주 게임 | [java-racingcar-precourse]() | [Pull Request]() |
-|      블랙잭      | [java-blackjack-precourse]() | [Pull Request]() |
-
-<br/>
-
-## ⌛️ Level 0.5 : 오프라인 테스트
-
-### 기간
-
-- 2019.12.24
-
-### 진행 미션
-
-| Project |                          Repository                          |                         Pull Request                         |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019]() | [Pull Request]() |
+|     Project      |                          Repository                          |
+| :--------------: | :----------------------------------------------------------: |
+|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KimSeongGyu1/java-baseball-precourse) |
+| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KimSeongGyu1/java-racingcar-precourse) |
+|      블랙잭      | [java-blackjack-precourse](https://github.com/KimSeongGyu1/java-blackjack-precourse) |
+|      치킨 집      | [java-chicken-2019](https://github.com/KimSeongGyu1/java-chicken-2019) |
 
 <br/>
 
@@ -55,17 +49,18 @@
 
 ### 진행 미션
 
-|     Project      |                          Repository                          |                         Pull Request                         |
+|     Project      |                          Repository                          |                         코드 리뷰                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator]() | [Pull Request]() |
-| 자동차 경주 게임 |  [java-racingcar]()  | [Pull Request]() |
-|   로또 / step1   | [java-lotto/step1]() | [Pull Request]() |
-|   로또 / step2   | [java-lotto/step2]() | [Pull Request]() |
-|  블랙잭 / step1  | [java-blackjack/step1]() | [Pull Request]() |
-|  블랙잭 / step2  | [java-blackjack/step2]() | [Pull Request]() |
-|   체스 / step1   | [java-chess/step1]() | [Pull Request]() |
-|   체스 / step2   | [java-chess/step2]() | [Pull Request]() |
-|   90년생 HTML    |            [html]()            | [Pull Request]()  |
+|  문자열 계산기   | [java-calculator](https://github.com/KimSeongGyu1/java-calculator) | [코드 리뷰](https://github.com/woowacourse/java-calculator/pull/54) |
+| 자동차 경주 게임 |  [java-racingcar](https://github.com/KimSeongGyu1/java-racingcar)  | [코드 리뷰](https://github.com/woowacourse/java-racingcar/pull/77) |
+|   로또 / step1   | [java-lotto/step1](https://github.com/KimSeongGyu1/java-lotto/tree/YuanElly) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/128) |
+|   로또 / step2   | [java-lotto/step2](https://github.com/KimSeongGyu1/java-lotto) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/221) |
+|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/KimSeongGyu1/java-blackjack/tree/firststep) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/39) |
+|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/KimSeongGyu1/java-blackjack) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/90) |
+|   체스 / step1   | [java-chess/step1](https://github.com/KimSeongGyu1/java-chess/tree/kimseonggyu1) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/67) |
+|   체스 / step2   | [java-chess/step2](https://github.com/KimSeongGyu1/java-chess) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/110) |
+|   90년생 HTML    |            [html](https://github.com/KimSeongGyu1/html)            | 코드 리뷰 X: 단순 html 학습 미션  |
+|   오프라인 코딩 테스트 다시   |            [java-chiken-after-level-1](https://github.com/KimSeongGyu1/java-chicken-2020)            | 코드 리뷰 X: 실력 향상 점검 미션 |
 
 <br/>
 
